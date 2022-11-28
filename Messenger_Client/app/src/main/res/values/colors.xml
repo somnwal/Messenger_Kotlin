@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_200">#964B00</color>
+    <color name="primary_500">#6F4F28</color>
+    <color name="primary_700">#3A1D1D</color>
+    <color name="loading_title">#000000</color>
+    <color name="yellow">#FEE500</color>
+
+    <color name="chat_background">#9bbbd4</color>
+    <color name="my_chat">#fef01b</color>
+    <color name="chat">#ffffff</color>
+
+
+    <color name="teal_200">#3A1D1D</color>
+    <color name="teal_700">#3A1D1D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
